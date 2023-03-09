@@ -7,8 +7,8 @@ Advanced Database Topics Course Project
 <a href="https://postimg.cc/m1PKV4hh" target="_blank"><img src="https://i.postimg.cc/m1PKV4hh/Forecast.jpg" alt="Forecast"/></a><br/><br/>
 Map View
 
-[url=https://postimg.cc/MXLCHnrB][img]https://i.postimg.cc/MXLCHnrB/Map.jpg[/img][/url]
+<a href="https://postimg.cc/ZWtXP1mK" target="_blank"><img src="https://i.postimg.cc/ZWtXP1mK/Historical-Data.jpg" alt="Historical-Data"/></a><br/><br/>
 Forecasting Model
 
-[url=https://postimg.cc/MXLCHnrB][img]https://i.postimg.cc/MXLCHnrB/Map.jpg[/img][/url]
+<a href="https://postimg.cc/MXLCHnrB" target="_blank"><img src="https://i.postimg.cc/MXLCHnrB/Map.jpg" alt="Map"/></a><br/><br/>
 Historical Model
